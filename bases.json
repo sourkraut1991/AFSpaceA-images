@@ -1,0 +1,263 @@
+
+[{
+    "id": 0,
+    "image": "Aviano",
+    "name": "AVIANO AB, ITALY",
+    "region": "EUCOM",
+    "Commercial": "0110390434037680",
+    "DSN": "3126327680",
+    "email": "AvianoSpaceA@us.af.mil",
+    "website": "https://www.amc.af.mil/AMC-Travel-Site/Terminals/EUCOM-Terminals/Aviano-AB-Passenger-Terminal/"
+},
+    
+    {
+        "id": 1,
+        "image": "Incirlik",
+        "name": "INCIRLIK AB, TURKEY",
+        "region": "EUCOM",
+        "Commercial": "903223166425/6001",
+        "DSN": " 3146766425/6001",
+        "email": " 728AMS.SpaceA.SignUp@us.af.mil",
+        "website": "https://www.amc.af.mil/AMC-Travel-Site/Terminals/EUCOM-Terminals/Incirlik-AB-Passenger-Terminal/"
+    },
+    {
+        "id": 2,
+        "image": "LAJESFIELD",
+        "name": "LAJES FIELD AB, PORTUGAL",
+        "region": "EUCOM",
+        "Commercial": "011351295573961/3227",
+        "DSN": "31453532273961/3227",
+        "email": "721APS.OL-A.1@us.af.mil",
+        "website": "https://www.amc.af.mil/AMC-Travel-Site/Terminals/EUCOM-Terminals/Lajes-Field-AB-Passenger-Terminal/"
+    },
+    {
+        "id": 3,
+        "image": "Rota",
+        "name": "NAS ROTA, SPAIN",
+        "region": "EUCOM",
+        "Commercial": "34-95-682-2411",
+        "DSN": "(314) 727-2411/2171",
+        "email": "spacearota@eu.navy.mil",
+        "website": "https://www.amc.af.mil/AMC-Travel-Site/Terminals/EUCOM-Terminals/Navsta-Rota-Passenger-Terminal/"
+    },
+    {
+        "id": 4,
+        "image": "Sigonella",
+        "name": "NAS SIGONELLA, ITALY",
+        "region": "EUCOM",
+        "Commercial": "39-095-86-5576/6725",
+        "DSN": "(314) 624-5576/6725",
+        "email": "spaceasiz@eu.navy.mil",
+        "website": "https://www.amc.af.mil/AMC-Travel-Site/Terminals/EUCOM-Terminals/Sigonella-NAS-Passenger-Terminal/"
+    },
+    {
+        "id": 5,
+        "image": "Naples",
+        "name": "NSA NAPLES, ITALY",
+        "region": "EUCOM",
+        "Commercial": "011-39-81-568-5283/5369",
+        "DSN": "(314) 626-5283/5396",
+        "email": "spacea.naples.it@eu.navy.mil",
+        "website": "https://www.amc.af.mil/AMC-Travel-Site/Terminals/EUCOM-Terminals/NSA-Naples-Passenger-Terminal/"
+    },
+    {
+        "id": 6,
+        "image": "Souda",
+        "name": "NSA SOUDA BAY, CRETE, GREECE",
+        "region": "EUCOM",
+        "Commercial": "011-30-282102-1275/1383",
+        "DSN": " (314) 266-1275/1383",
+        "email": " spaceasoudabay@eu.navy.mil",
+        "website": "https://www.amc.af.mil/AMC-Travel-Site/Terminals/EUCOM-Terminals/NSA-Souda-Bay-Passenger-Terminal/"
+    },
+    {
+        "id": 7,
+        "image": "Mildenhall",
+        "name": "RAF MILDENHALL, UK",
+        "region": "EUCOM",
+        "Commercial": "01638-54-2248",
+        "DSN": " (314) 238-2248",
+        "email": " 727ams.spacea@us.af.mil",
+        "website": "https://www.amc.af.mil/AMC-Travel-Site/Terminals/EUCOM-Terminals/RAF-Mildenhall-Passenger-Terminal/"
+    },
+    {
+        "id": 8,
+        "image": "Ramstein",
+        "name": "Ramstein AB, Germany",
+        "region": "EUCOM",
+        "Commercial": "06371-46-4441",
+        "DSN": "(314) 479-4441",
+        "email": "721aps.ramstein.spaceasignup@us.af.mil",
+        "website": "https://www.amc.af.mil/AMC-Travel-Site/Terminals/EUCOM-Terminals/Ramstein-AB-Passenger-Terminal/"
+    },
+    {
+        "id": 9,
+        "image": "Spangdahlem",
+        "name": "SPANGDAHLEM AB, GERMANY",
+        "region": "EUCOM",
+        "Commercial": " 011-49-6565-61-8866",
+        "DSN": "(314) 452-8866",
+        "email": "726ams.trp@us.af.mil",
+        "website": "https://www.amc.af.mil/AMC-Travel-Site/Terminals/EUCOM-Terminals/Spangdahlem-AB-Passenger-Terminal/"
+        
+    },
+    {
+        "id": 10,
+        "image": "Baltimore",
+        "name": "BALTIMORE-WASHINGTON INT'L (BWI), MD",
+        "region": "CONUS",
+        "Commercial": "(609) 253-8825",
+        "DSN": "(312) 568-8825",
+        "email": "bwipax@us.af.mil",
+        "website": "https://www.amc.af.mil/AMC-Travel-Site/Terminals/CONUS-Terminals/Baltimore-Washington-International-Airport-Passenger-Terminal/"
+    },
+    {
+        "id": 11,
+        "image": "Dover",
+        "name": "DOVER AFB, DE",
+        "region": "CONUS",
+        "Commercial": "(302) 677-4088 / 2854",
+        "DSN": "(312) 445-4088 / 2854",
+        "email": "436aps.spacea@us.af.mil",
+        "website": "https://www.amc.af.mil/AMC-Travel-Site/Terminals/CONUS-Terminals/Dover-AFB-Passenger-Terminal/"
+    },
+    {
+        "id": 12,
+        "image": "Fairchild",
+        "name": "FAIRCHILD AFB, WA",
+        "region": "CONUS",
+        "Commercial": "(509) 247-3406",
+        "DSN": "(312) 657-3406",
+        "email": "92lrs.passenger@us.af.mil",
+        "website": "https://www.amc.af.mil/AMC-Travel-Site/Terminals/CONUS-Terminals/Fairchild-AFB-Air-Transportation-Function/"
+    },
+    {
+        "id": 13,
+        "image": "Andrews",
+        "name": "JOINT BASE ANDREWS, MD",
+        "region": "CONUS",
+        "Commercial": "(301) 981-3604",
+        "DSN": "(312) 858-3604",
+        "email": "AMC.SPACEA@us.af.mil",
+        "website": "https://www.amc.af.mil/AMC-Travel-Site/Terminals/CONUS-Terminals/Joint-Base-Andrews-Passenger-Terminal/"
+    },
+    {
+        "id": 14,
+        "image": "Charleston",
+        "name": "JOINT BASE CHARLESTON, SC",
+        "region": "CONUS",
+        "Commercial": "(843) 963-3048 / 3083",
+        "DSN": "(312) 673-3048 / 3083",
+        "email": "437APS.SPACEA@us.af.mil",
+        "website": "https://www.amc.af.mil/AMC-Travel-Site/Terminals/CONUS-Terminals/Joint-Base-Charleston-Passenger-Terminal/"
+    },
+    {
+        "id": 15,
+        "image": "Mcchord",
+        "name": "JOINT BASE LEWIS-MCCHORD, WA",
+        "region": "CONUS",
+        "Commercial": "(253) 982-7259 / 7268",
+        "DSN": "(312) 382-7259",
+        "email": "eagle@us.af.mil",
+        "website": "https://www.mcchord.af.mil/About-Us/McChord-AMC-Passenger-Terminal/"
+    },
+    {
+        "id": 16,
+        "image": "Mcguire",
+        "name": "JOINT BASE MCGUIRE-DIX-LAKEHURST, NJ",
+        "region": "CONUS",
+        "Commercial": "(609) 754-5023 / 9950",
+        "DSN": "(312) 650-5023 / 9950",
+        "email": "305.APS.McGuire.SPACE.A@us.af.mil",
+        "website": "https://www.amc.af.mil/AMC-Travel-Site/Terminals/CONUS-Terminals/Joint-Base-MDL-Passenger-Terminal/"
+    },
+    {
+        "id": 17,
+        "image": "Rock",
+        "name": "LITTLE ROCK AFB, AR",
+        "region": "CONUS",
+        "Commercial": "(501) 987-3118",
+        "DSN": "(312) 731-3118",
+        "email": "19LRS.LGRA.ATF@us.af.mil",
+        "website": "https://www.amc.af.mil/AMC-Travel-Site/Terminals/CONUS-Terminals/Little-Rock-AFB-Passenger-Terminal/"
+    },
+    {
+        "id": 18,
+        "image": "Macdill",
+        "name": "MACDILL AFB, FL",
+        "region": "CONUS",
+        "Commercial": "(813) 828-2440",
+        "DSN": "(312) 968-2440",
+        "email": "SpaceA2@us.af.mil",
+        "website": "https://www.amc.af.mil/AMC-Travel-Site/Terminals/CONUS-Terminals/MacDill-AFB-Air-Transportation-Function/"
+    },
+    {
+        "id": 19,
+        "image": "Mcconnell",
+        "name": "MCCONNELL AFB, KS",
+        "region": "CONUS",
+        "Commercial": "(316) 759-4810 / 5404",
+        "DSN": "(312) 743-4810 / 5404",
+        "email": "space-a@us.af.mil",
+        "website": "https://www.amc.af.mil/AMC-Travel-Site/Terminals/CONUS-Terminals/McConnell-AFB-Air-Transportation-Function/"
+    },
+    {
+        "id": 20,
+        "image": "Jacksonville",
+        "name": "NAS JACKSONVILLE, FL",
+        "region": "CONUS",
+        "Commercial": "(904) 542-8159/3956",
+        "DSN": "(312) 942-8159/3956",
+        "email": "spaceajaxs@navy.mil",
+        "website": "https://www.amc.af.mil/AMC-Travel-Site/Terminals/Staging/NAS-Jacksonville-Passenger-Terminal/"
+    },
+    {
+        "id": 21,
+        "image": "Norfolk",
+        "name": "NS NORFOLK, VA",
+        "region": "CONUS",
+        "Commercial": "757-444-4118/4148",
+        "DSN": "(312) 564-4118 / 4148",
+        "email": "spacea@airtermnorva.navy.mil",
+        "website": "https://www.amc.af.mil/AMC-Travel-Site/Terminals/CONUS-Terminals/NS-Norfolk-Passenger-Terminal/"
+    },
+    {
+        "id": 22,
+        "image": "Pope",
+        "name": "POPE FIELD, NC",
+        "region": "CONUS",
+        "Commercial": "910-394-6527/6525",
+        "DSN": "312-424-6527",
+        "email": "pope.space.a@us.af.mil",
+        "website": "https://www.amc.af.mil/AMC-Travel-Site/Terminals/CONUS-Terminals/Pope-Army-Airfield-Passenger-Terminal/"
+    },
+    {
+        "id": 23,
+        "image": "Scott",
+        "name": "SCOTT AFB, IL",
+        "region": "CONUS",
+        "Commercial": "618-256-307/1854",
+        "DSN": "312-576-3017/1854",
+        "email": "Scott.Spacea@us.af.mil",
+        "website": "https://www.amc.af.mil/AMC-Travel-Site/Terminals/CONUS-Terminals/Scott-AFB-Air-Transportation-Function/"
+    },
+    {
+        "id": 24,
+        "image": "Seattle",
+        "name": "SEATTLE-TACOMA IAP, WA",
+        "region": "CONUS",
+        "Commercial": "253-982-3504/0555",
+        "DSN": "312-382-3504/0555",
+        "email": "seattle.gateway@us.af.mil",
+        "website": "https://www.mcchord.af.mil/About-Us/AMC-Seattle-Gateway/"
+    },
+    {
+        "id": 25,
+        "image": "Travis",
+        "name": "TRAVIS AFB, CA",
+        "region": "CONUS",
+        "Commercial": "707-424-5774 / 1854",
+        "DSN": "312-837-5774 / 1854",
+        "email": "60aps.SpaceA@us.af.mil",
+        "website": "https://www.amc.af.mil/AMC-Travel-Site/Terminals/CONUS-Terminals/Travis-AFB-Passenger-Terminal/"
+    }]
